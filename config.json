@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsalculate",
+        "uuid": 343990,
+        "checksum": "vgd948"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
